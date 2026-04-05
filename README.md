@@ -11,7 +11,7 @@ This project analyzes and forecasts crime trends across Ontario cities using off
 - Forecast crime trends using Exponential Smoothing
 
 ## Tools
-Python, Pandas, Matplotlib, Scikit-learn, Statsmodels
+Python, Pandas, Matplotlib, Scikit-learn, Statsmodels, Excel
 
 ## Key Insights📊
 - Toronto consistently shows the highest crime volume

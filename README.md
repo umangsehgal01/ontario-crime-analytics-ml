@@ -1,6 +1,3 @@
-# ontario-crime-analytics-ml
-End-to-end crime data analytics and forecasting using Python, statistics, clustering, and machine learning on Statistics Canada data.
-
 # Ontario Crime Analytics & Forecasting (2021–2024)
 
 This project analyzes and forecasts crime trends across Ontario cities using official Statistics Canada data.

@@ -22,7 +22,7 @@ Python, Pandas, Matplotlib, Scikit-learn, Statsmodels
 ## Visualizations
 
 ### Heatmap of Crime by City and Year
-![Heatmap](https://imgur.com/a/7tZuhHU)
+![Heatmap]([https://imgur.com/a/7tZuhHU](https://github.com/umangsehgal01/ontario-crime-analytics-ml/issues/1#issue-4208518175))
 
 ### PCA Clustering
 ![PCA](https://imgur.com/a/eSyYJzt)

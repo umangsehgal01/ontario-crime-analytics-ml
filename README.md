@@ -79,4 +79,4 @@ Suggests a further increase in 2025, reinforcing the need for preventive policy 
 
 ## Author
 Umang Sehgal  
-Student, Business Analytics – Conestoga College
+Post Graduate in Business Analytics – Conestoga College

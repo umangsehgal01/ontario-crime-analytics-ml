@@ -20,3 +20,15 @@ Python, Pandas, Matplotlib, Scikit-learn, Statsmodels
 - Forecast shows rising crime trend into 2025
 
 ## Visualizations
+
+### Heatmap of Crime by City and Year
+![Heatmap](https://imgur.com/a/7tZuhHU)
+
+### PCA Clustering
+![PCA](https://imgur.com/a/eSyYJzt)
+
+### Model Comparison
+![Model](https://imgur.com/a/JOrna0J)
+
+### Forecast to 2025
+![Forecast](https://imgur.com/a/88d8pVQ)

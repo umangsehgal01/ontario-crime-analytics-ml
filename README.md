@@ -22,13 +22,15 @@ Python, Pandas, Matplotlib, Scikit-learn, Statsmodels
 ## Visualizations
 
 ### Heatmap of Crime by City and Year
-![Heatmap]([https://imgur.com/a/7tZuhHU](https://github.com/umangsehgal01/ontario-crime-analytics-ml/issues/1#issue-4208518175))
+![Heatmap](https://github.com/user-attachments/assets/d1aafd23-cf52-49de-a936-1251840c468d)
 
 ### PCA Clustering
-![PCA](https://imgur.com/a/eSyYJzt)
+![PCA](https://github.com/user-attachments/assets/e336ece0-d08a-4265-b169-a51ae8cd3f7c)
+
 
 ### Model Comparison
-![Model](https://imgur.com/a/JOrna0J)
+![Model](https://github.com/user-attachments/assets/9d8afe9b-7d73-4d9d-b6d0-e205701c4519)
+
 
 ### Forecast to 2025
-![Forecast](https://imgur.com/a/88d8pVQ)
+![Forecast](https://github.com/user-attachments/assets/2ae03116-95a0-40fc-8724-2d272bd2205f)

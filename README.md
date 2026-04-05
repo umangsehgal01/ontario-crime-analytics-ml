@@ -78,10 +78,6 @@ Predicted Total Crimes: 504,272 incidents
 Suggests a further increase in 2025, reinforcing the need for preventive policy measures
 
 ## Author
-Umang Sehgal  
-Sakshi Salvi
-Mitali Sharma
-Nitigya Vasudev
-Prince Choudhary
+Umang Sehgal, Sakshi Salvi, Mitali Sharma, Nitigya Vasudev, Prince Choudhary
 
 (Post Graduate in Business Analytics – Conestoga College)

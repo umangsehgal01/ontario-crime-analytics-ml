@@ -32,5 +32,5 @@ Python, Pandas, Matplotlib, Scikit-learn, Statsmodels
 ![Model](https://github.com/user-attachments/assets/9d8afe9b-7d73-4d9d-b6d0-e205701c4519)
 
 
-### Forecast to 2025
+### Forecast for 2025
 ![Forecast](https://github.com/user-attachments/assets/2ae03116-95a0-40fc-8724-2d272bd2205f)
